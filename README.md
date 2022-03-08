@@ -1,1 +1,1 @@
-# VRLit
+# VR for Education
